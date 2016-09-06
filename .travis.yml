@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "0.10"
+language: ruby
+rvm:
+  - 2.1
+  - jruby
+  - rbx-2
+# uncomment and edit the following line if your project needs to run something other than `rake`:
+#script: bundle exec rspec spec
